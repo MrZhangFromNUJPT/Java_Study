@@ -1,0 +1,9 @@
+div方法出异常了
+异常的名称是:ArithmeticException
+异常的原因是+/ by zero
+-------------
+show方法出异常了
+异常的名称是:NullPointerException
+异常的原因是+Cannot invoke "String.toString()" because "s" is null
+-------------
+本次测试一共出现 2 次异常
