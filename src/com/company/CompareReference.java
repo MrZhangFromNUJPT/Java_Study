@@ -13,5 +13,6 @@ public class CompareReference{
         float[] f3=f1;
         long x=42;
         f1[0]=42.0f;
+        System.out.println("test");
     }
 }
